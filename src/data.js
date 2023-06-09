@@ -1,21 +1,21 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://unsplash.com/photos/d-8_i0NPTnY",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/ff/29/2a/737786f6fa821f9535b94420b0855609.jpg.webp",
     title: "TITLE No.1",
     desc: "The bookstore was more than just a place to buy As the day turned to night, the store took on a different kind of magic. The soft glow of the lamps illuminated the cozy reading nooks, where customers could curl up with a book and lose themselves in its pages.; it was a haven for bookworms and literature enthusiasts alike. It was a place of discovery, where new worlds could be found within the pages of a book.",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://unsplash.com/photos/OQSCtabGkSY",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/ff/29/2a/737786f6fa821f9535b94420b0855609.jpg.webp",
     title: "TITLE No.3",
     desc: "The bookstore was more than just a place to buy books; it was a haven for bookworms and literature enthusiasts alike. It was a place of discovery, where new worlds could be found within the pages of a book.",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://unsplash.com/photos/z_DkoUqgx6M",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/ff/29/2a/737786f6fa821f9535b94420b0855609.jpg.webp",
     title: "TITLE No.3",
     desc: "Years went by, and the city changed around the little bookstore. But through it all, the store remained a constant, welcoming readers old and new. And so it continues to this day, a beloved institution in the community, where the love of books is celebrated and cherished.",
     bg: "fbf0f4",

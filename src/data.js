@@ -1,23 +1,25 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://salt.tikicdn.com/cache/750x750/ts/product/ff/29/2a/737786f6fa821f9535b94420b0855609.jpg.webp",
-    title: "TITLE No.1",
-    desc: "The bookstore was more than just a place to buy As the day turned to night, the store took on a different kind of magic. The soft glow of the lamps illuminated the cozy reading nooks, where customers could curl up with a book and lose themselves in its pages.; it was a haven for bookworms and literature enthusiasts alike. It was a place of discovery, where new worlds could be found within the pages of a book.",
+    img: "https://images.pexels.com/photos/2269648/pexels-photo-2269648.jpeg",
+    // img: "https://i.pinimg.com/550x/ca/c1/52/cac1523db5809991937c7ccb944eba72.jpg",
+    title: "Titel No.1",
+    desc: "Description 1",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://salt.tikicdn.com/cache/750x750/ts/product/ff/29/2a/737786f6fa821f9535b94420b0855609.jpg.webp",
-    title: "TITLE No.3",
-    desc: "The bookstore was more than just a place to buy books; it was a haven for bookworms and literature enthusiasts alike. It was a place of discovery, where new worlds could be found within the pages of a book.",
+    // img: "https://images.pexels.com/photos/2269648/pexels-photo-2269648.jpeg",
+    img: "https://i.pinimg.com/550x/ca/c1/52/cac1523db5809991937c7ccb944eba72.jpg",
+    title: "Titel No.3",
+    desc: "Description 2",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://salt.tikicdn.com/cache/750x750/ts/product/ff/29/2a/737786f6fa821f9535b94420b0855609.jpg.webp",
-    title: "TITLE No.3",
-    desc: "Years went by, and the city changed around the little bookstore. But through it all, the store remained a constant, welcoming readers old and new. And so it continues to this day, a beloved institution in the community, where the love of books is celebrated and cherished.",
+    img: "https://images.pexels.com/photos/2269648/pexels-photo-2269648.jpeg",
+    title: "Titel No.3",
+    desc: "Description 3",
     bg: "fbf0f4",
   },
 ];
@@ -25,52 +27,52 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "SHIRT STYLE!",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/86/b1/9a/9a78eb06c04a23a33f2d3a464874799a.jpg.webp",
+    title: "SkyBooks",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "LOUNGEWEAR LOVE",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/03/03/07/3fbe7cc39c9fe08b308274a03099c1c1.jpg.webp",
+    title: "SkyBooks",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    title: "LIGHT JACKETS",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/fa/22/96/e8df06c3e3334bbb9a38e8259989d6a5.jpg.webp",
+    title: "SkyBooks",
   },
 ];
 
 export const popularProducts = [
   {
     id:1,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/86/b1/9a/9a78eb06c04a23a33f2d3a464874799a.jpg.webp",
   },
   {
     id:2,
-    img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/03/03/07/3fbe7cc39c9fe08b308274a03099c1c1.jpg.webp",
   },
   {
     id:3,
-    img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/fa/22/96/e8df06c3e3334bbb9a38e8259989d6a5.jpg.webp",
   },
   {
     id:4,
-    img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/86/b1/9a/9a78eb06c04a23a33f2d3a464874799a.jpg.webp",
   },
   {
     id:5,
-    img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/03/03/07/3fbe7cc39c9fe08b308274a03099c1c1.jpg.webp",
   },
   {
     id:6,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/fa/22/96/e8df06c3e3334bbb9a38e8259989d6a5.jpg.webp",
   },
   {
     id:7,
-    img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/86/b1/9a/9a78eb06c04a23a33f2d3a464874799a.jpg.webp",
   },
   {
     id:8,
-    img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img: "https://salt.tikicdn.com/cache/750x750/ts/product/03/03/07/3fbe7cc39c9fe08b308274a03099c1c1.jpg.webp",
   },
 ]

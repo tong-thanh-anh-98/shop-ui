@@ -126,8 +126,7 @@ const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <Room style={{ marginRight: "10px" }} /> TP.Ho Chi Min
-          Tobinchester 98336
+          <Room style={{ marginRight: "10px" }} /> TP.Ho Chi Minh
         </ContactItem>
         <ContactItem>
           <Phone style={{ marginRight: "10px" }} /> +84 0987 457 830
